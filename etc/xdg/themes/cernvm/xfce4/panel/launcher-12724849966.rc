@@ -1,0 +1,12 @@
+[Entry 0]
+Name=Orage
+Comment=Desktop calendar
+Icon=xfcalendar
+Exec=orage
+Terminal=false
+StartupNotify=true
+
+[Global]
+MoveFirst=false
+ArrowPosition=0
+

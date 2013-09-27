@@ -1,0 +1,12 @@
+[Global]
+MoveFirst=false
+ArrowPosition=0
+
+[Entry 0]
+Name=Mousepad
+Comment=Simple text editor
+Icon=mousepad
+Exec=mousepad %f
+Terminal=false
+StartupNotify=true
+

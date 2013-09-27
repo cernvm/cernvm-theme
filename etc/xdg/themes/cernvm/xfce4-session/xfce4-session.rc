@@ -1,0 +1,10 @@
+Count=4
+Client0_Command=xfwm4
+Client0_PerScreen=False
+Client1_Command=Thunar,--daemon
+Client1_PerScreen=False
+Client2_Command=xfdesktop
+Client2_PerScreen=False
+Client3_Command=xfce4-panel
+Client3_PerScreen=False
+

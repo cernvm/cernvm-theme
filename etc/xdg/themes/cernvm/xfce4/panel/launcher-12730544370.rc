@@ -1,0 +1,12 @@
+[Entry 0]
+Name=System Monitor
+Comment=System Monitor
+Icon=gnome-monitor
+Exec=gnome-system-monitor
+Terminal=false
+StartupNotify=false
+
+[Global]
+MoveFirst=false
+ArrowPosition=0
+

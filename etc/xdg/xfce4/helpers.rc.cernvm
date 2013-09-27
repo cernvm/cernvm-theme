@@ -1,0 +1,8 @@
+#
+# CernVM helpers.rc for Xfce's Preferred Applications
+#
+
+WebBrowser=firefox
+MailReader=thunderbird
+TerminalEmulator=Terminal
+FileManager=Thunar

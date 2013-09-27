@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ROOT
+Comment=http://root.cern.ch
+Icon=/usr/share/pixmaps/cernvm/root_s.xpm
+Exec=sh -c 'module load ROOT && root'
+Path=
+Terminal=true
+StartupNotification=false

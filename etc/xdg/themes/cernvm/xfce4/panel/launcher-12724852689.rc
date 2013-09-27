@@ -1,0 +1,12 @@
+[Entry 0]
+Name=Web Browser
+Comment=Browse the web
+Icon=web-browser
+Exec=firefox
+Terminal=false
+StartupNotify=false
+
+[Global]
+MoveFirst=false
+ArrowPosition=0
+
