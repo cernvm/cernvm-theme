@@ -98,10 +98,5 @@
         <value type="string" value="13719903195.desktop"/>
       </property>
     </property>
-    <property name="plugin-18" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="13719903516.desktop"/>
-      </property>
-    </property>
   </property>
 </channel>
