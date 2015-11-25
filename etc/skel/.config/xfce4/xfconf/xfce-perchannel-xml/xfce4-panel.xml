@@ -69,7 +69,9 @@
     <property name="plugin-4" type="string" value="pager">
       <property name="rows" type="uint" value="1"/>
     </property>
-    <property name="plugin-5" type="string" value="clock"/>
+    <property name="plugin-5" type="string" value="clock">
+      <property name="show-frame" type="bool" value="false"/>
+    </property>
     <property name="plugin-9" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="13670732675.desktop"/>
